@@ -7,6 +7,8 @@ In this project the user will connect their MetaMask wallet. If they own any NFT
 
 A real-world use case for this project: Displaying NFT's in a collection or for specific users in a dApp
 
+- [Hands-On coding with the Infura NFT API & SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
+
 
 ## Tech Stack
 
